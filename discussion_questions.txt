@@ -1,0 +1,16 @@
+Discussion Questions
+
+Recursion
+
+1.  Recursion consists of multiple calls to the same function, with each function call being dependent on following function call to resolve.
+
+2.  Designating a base case prevents infinite recursion.
+
+
+Graphs
+
+1.  A graph is a data structure that consists of nodes connected by edges. 
+
+2.  All trees are graphs, but not all graphs are trees. Unlike trees, graphs may contain cycles and can be non-directed.
+
+3.  Academic paper citations could be modeled using a graph.
